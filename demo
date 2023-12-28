@@ -1,7 +1,3 @@
-echo "# demo" >> README.md 
-git init 
-git add README.md 
-git commit -m "第一次提交" 
-gitbranch -M main 
-git远程添加origin https://github.com/mengyangyangs/demo.git
- git push - u 起源主要
+#! bin/bash
+
+hello world
